@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC90E&height=250&section=header&text=Yunjae%20LEE&fontSize=120)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
 <!--
 **YUNJAEGOONER/YUNJAEGOONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
