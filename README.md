@@ -1,5 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC90E&height=250&section=header&text=Yunjae%20LEE&fontSize=120)
 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <br> <!--띄어쓰기 -->
+</p>
+
+
 <!--
 **YUNJAEGOONER/YUNJAEGOONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
