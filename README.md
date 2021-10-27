@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFC90E&height=250&section=header&text=Yunjae%20LEE&fontSize=120)
 
+<h3 align="center">💻STUDY ~ing💻 </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=java&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
   <br> <!--띄어쓰기 -->
+  <!--<img src="https://img.shields.io/badge/"텍스트-컬러코드"?style=flat-square&logo="simpleicons에서아이콘이름"&logoColor=white"/></a>&nbsp  -->
 </p>
 
 
