@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFC90E&height=250&section=header&text=Yunjae%20LEE&fontSize=120)
+
+//### Hi there 👋
 
 <!--
 **YUNJAEGOONER/YUNJAEGOONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFC90E&height=250&section=header&text=Yunjae%20LEE&fontSize=120)
