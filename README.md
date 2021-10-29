@@ -9,8 +9,8 @@
   <!--<img src="https://img.shields.io/badge/"텍스트-컬러코드"?style=flat-square&logo="simpleicons에서아이콘이름"&logoColor=white"/></a>&nbsp  -->
 </p>
 
-
-<a href="https://github.com/YUNJAEGOONER/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YUNJAEGOONER&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Yunjae's github stats" /></a> | <a href="https://github.com/YUNJAEGOONER/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUNJAEGOONER&layout=compact&theme=flag-india&hide_border=true" /></a> 
+| <a href="https://github.com/YUNJAEGOONER/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YUNJAEGOONER&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Yunjae's github stats" /></a> | <a href="https://github.com/YUNJAEGOONER/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUNJAEGOONER&layout=compact&theme=flag-india&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **YUNJAEGOONER/YUNJAEGOONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
