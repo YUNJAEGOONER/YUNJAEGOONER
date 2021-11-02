@@ -9,6 +9,15 @@
   <!--<img src="https://img.shields.io/badge/"텍스트-컬러코드"?style=flat-square&logo="simpleicons에서아이콘이름"&logoColor=white"/></a>&nbsp  -->
 </p>
 
+<div class="parent" style="width: 300px; height: 100px; background: #585858;">
+    <div class="child" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUNJAEGOONER&layout=compact&theme=flag-india&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) >
+
+    </div>
+    <div class="child" ![Yunjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUNJAEGOONER&show_icons=true&theme=flag-india)>
+
+    </div>
+</div>
+
 <!--
 **YUNJAEGOONER/YUNJAEGOONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
