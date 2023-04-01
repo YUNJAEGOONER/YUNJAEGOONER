@@ -3,7 +3,7 @@
 <h3 align="center">💻STUDY ~ing💻 </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=java&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Java-FF9E0F?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-6DB33F?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
