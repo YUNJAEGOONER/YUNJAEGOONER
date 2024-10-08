@@ -12,9 +12,9 @@
   <!--<img src="https://img.shields.io/badge/"텍스트-컬러코드"?style=flat-square&logo="simpleicons에서아이콘이름"&logoColor=white"/></a>&nbsp  -->
 </p>
 
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=coygyj)](https://solved.ac/coygyj/)
-
+-->
 
 <!--
 **YUNJAEGOONER/YUNJAEGOONER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
